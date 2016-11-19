@@ -24,7 +24,7 @@
   ```
   if HC-05 Ready to use. You should get reply if "OK" <br /> 
   and [more](http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/ "Title") <br /> 
-  more HC-05 AT command [here](www.pridopia.co.uk/pi-doc/commandes_AT_HC05.pdf)
+  more HC-05 AT commands [here](www.pridopia.co.uk/pi-doc/commandes_AT_HC05.pdf)
 ## 2. download TinyGPS++
   Can download [here](http://arduiniana.org/libraries/tinygpsplus/ "Title") <br /> 
   Use for Master_HC05_.ino
